@@ -11,3 +11,12 @@ table, th, td{
     }
 
 td{ padding: 10px;}
+
+/* nichtbesuchter link */
+a:link {
+    color: lightskyblue;}
+
+/* besuchter link */
+a:visited {
+    color: grey;
+  }
