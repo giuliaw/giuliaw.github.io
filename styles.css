@@ -8,6 +8,6 @@ table, th, td{
     width: 75%;
     border-collapse: collapse;
     border: 2px solid lightskyblue;
-    margin: 10px}
+    }
 
 td{ padding: 10px;}
