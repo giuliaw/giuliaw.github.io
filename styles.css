@@ -5,9 +5,9 @@ nav{background-color: #cce6ff}
 
 table, th, td{
     table-layout: fixed;
-    width: 50%;
+    width: 75%;
     border-collapse: collapse;
     border: 2px solid lightskyblue;
-    margin: 10px}
+    margin: 50px}
 
 td{ padding: 10px;}
