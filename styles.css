@@ -22,7 +22,7 @@ a:visited {
   }
 
 div {
-    width: 900px;
+    width: 75%;
     border: 2px grey; 
     border-style: solid;
     border-radius: 12px;
