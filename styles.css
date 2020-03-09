@@ -1,11 +1,12 @@
 h1{color: navy;}
 body, html { height: 100%;
+    width: 100%;
 margin: 0}
 body{font-family: 'Poppins', sans-serif;}
 .hero-image{background-image: url(https://www.zenmountaingear.com/wp-content/uploads/2018/12/top-10-surfing-school-in-india-to-help-you-catch-your-first-wave-1024x720.jpg);
 background-position: center;
 background-repeat: no-repeat;
-background-size: initial;
+background-size: cover;
 position: relative;
 height: 75%}
 
