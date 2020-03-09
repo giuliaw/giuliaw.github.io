@@ -20,3 +20,8 @@ a:link {
 a:visited {
     color: grey;
   }
+
+div{
+    width: 800px;
+    border: 2px gray; 
+border-style: solid;}
