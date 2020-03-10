@@ -24,7 +24,7 @@ margin: 0px}
     transform: translate(-50%, -50%);
     color: black;
     border: none;
-    margin: 0px;
+    margin: 0 auto;
   }
 
 nav{background-color: #cce6ff}
