@@ -12,7 +12,7 @@ background-size: cover;
 position: relative;
 height: 75%;
 width: 100%;
-margin: 0}
+margin: 0px}
 
 .hero-text{
     font-family: 'Poppins', Helvetica, sans-serif;
@@ -53,6 +53,3 @@ div {
     border-radius: 12px;
     padding: 10px;
 }
-p{
-    text-align: justify;
-    text-justify: inter-character}
