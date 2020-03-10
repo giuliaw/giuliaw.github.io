@@ -37,16 +37,20 @@ table, th, td{
 
 td{ padding: 10px;}
 
+/* Maus über link */
+a:hover{color: lightgreen}
+
 /* nichtbesuchter link */
 a:link {
-    color: lightskyblue;}
-
+    color: lightskyblue;
+}
 /* besuchter link */
 a:visited {
     color: grey;
   }
-
-div {
+/* ausgewählter link */
+a:active{ color: lightpink}
+  div {
     width: 75%;
     border: 2px grey; 
     border-style: solid;
@@ -55,6 +59,6 @@ div {
 }
 
 .Text 
-{text-align: justify;
+{text-align: center justify;
 text-justify: inter-word;
 }
