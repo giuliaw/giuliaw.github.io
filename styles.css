@@ -52,13 +52,7 @@ a:visited {
   }
 /* ausgewählter link */
 a:active{ color: lightpink}
-  div {
-    width: 75%;
-    border: 2px grey; 
-    border-style: solid;
-    border-radius: 12px;
-    padding: 10px;
-}
+ 
 
 .Text 
 {
