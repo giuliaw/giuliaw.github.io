@@ -61,4 +61,5 @@ a:active{ color: lightpink}
 .Text 
 {text-align: center justify;
 text-justify: inter-word;
+width: 75%;
 }
