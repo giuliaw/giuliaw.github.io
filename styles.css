@@ -59,6 +59,9 @@ a:active{ color: lightpink}
 }
 
 .Text 
-{text-align: center justify;
-width: 75%;
+{
+    width: 800px;
+    padding: 10px;
+    border: 2px solid lightskyblue;
+    text-align: justify;
 }
