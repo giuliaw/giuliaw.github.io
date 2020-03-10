@@ -53,3 +53,8 @@ div {
     border-radius: 12px;
     padding: 10px;
 }
+
+.Text 
+{text-align: center;
+text-justify: inter-word;
+}
