@@ -143,7 +143,5 @@ footer{position: relative;
     width: 500;
     margin: 10px;
     float: right;
-}
-.clearfix {
     overflow: auto;
   }
