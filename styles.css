@@ -141,7 +141,6 @@ footer{position: relative;
 .spots {
     height: 300px;
     width: 500;
-    margin: 10px;
+    margin: 0px;
     float: right;
-    display: block;
 }
