@@ -129,4 +129,6 @@ footer{position: relative;
     height: 50px;
     background-color: lightgray;
     color: black;
-    text-align: center;}
+    text-align: center;
+    vertical-align: center;
+}
