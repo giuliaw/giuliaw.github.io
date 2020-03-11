@@ -119,6 +119,7 @@ a:active{ color: lightpink}
     margin-left: 100px;
     margin-left: 100px;
     border: dashed rgb(201, 247, 231);
+    border-radius: 5px;
     text-align: justify center;
     background-color: rgb(201, 247, 231);
 }
