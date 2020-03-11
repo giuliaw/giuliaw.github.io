@@ -19,7 +19,9 @@ ul.topnav {
     padding: 14px 16px;
     text-decoration: none;
   }
-
+  li a:hover {
+    background-color:#f2f2f2;}
+    
 h1{color: navy;}
 h2{
     margin-top: 50px;
