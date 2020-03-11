@@ -1,4 +1,4 @@
-nav.ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,11 +6,12 @@ nav.ul {
     background-color: #cce6ff;
   }
   
-  nav.li {
+ li {
     float: left;
   }
   
-  nav.li a {
+
+  li a {
     display: block;
     color: white;
     text-align: center;
