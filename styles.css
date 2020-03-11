@@ -121,7 +121,7 @@ a:active{ color: lightpink}
     border: none;
     text-align: justify center;
 }
-footer{position: absolute;
+footer{position: fixed;
     left: 0;
     bottom: 0;
     margin-top: 100px;
