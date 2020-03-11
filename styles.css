@@ -118,8 +118,9 @@ a:active{ color: lightpink}
     margin-top: 50px;
     margin-left: 100px;
     margin-left: 100px;
-    border: none;
+    border: dashed;
     text-align: justify center;
+    background-color: mediumaquamarine;
 }
 footer{position: relative;
     
