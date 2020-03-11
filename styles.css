@@ -76,7 +76,7 @@ table, th, td{
     table-layout: fixed;
     width: 75%;
     border-collapse: collapse;
-    border: 2px solid #cce6ff;
+    border: 2px solid lightskyblue;
     text-align: center;
     margin: auto;
     }
@@ -88,7 +88,7 @@ a:hover{color: lightpink}
 
 /* nichtbesuchter link */
 a:link {
-    color: #cce6ff;
+    color: lightskyblue;
 }
 /* besuchter link */
 a:visited {
