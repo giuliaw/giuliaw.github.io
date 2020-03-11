@@ -1,5 +1,10 @@
 h1{color: navy;}
-h2, h4{margin: 100px;}
+h2{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-bottom: 20px;
+
+}
 body, html{ 
     height: 100%;
     width: 100%;
