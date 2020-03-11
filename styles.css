@@ -7,7 +7,7 @@ ul.topnav {
     background-color: #cce6ff;
   }
   
- li {
+ li.topnav {
     float: left;
   }
   
