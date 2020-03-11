@@ -1,5 +1,5 @@
-nav{
-    ul {
+
+    .topnav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -19,7 +19,7 @@ nav{
     padding: 14px 16px;
     text-decoration: none;
   }
-}
+
 h1{color: navy;}
 h2{
     margin-top: 50px;
