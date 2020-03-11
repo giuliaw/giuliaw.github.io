@@ -121,3 +121,10 @@ a:active{ color: lightpink}
     border: none;
     text-align: justify center;
 }
+footer{position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: black;
+    text-align: center;}
