@@ -12,7 +12,7 @@ ul.topnav {
   }
   
 
-  li a {
+  li a.topnav {
     display: block;
     color: white;
     text-align: center;
