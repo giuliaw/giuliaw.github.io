@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: lightskyblue;
+    background-color: #cce6ff;
   }
   
   li {
@@ -76,7 +76,7 @@ table, th, td{
     table-layout: fixed;
     width: 75%;
     border-collapse: collapse;
-    border: 2px solid lightskyblue;
+    border: 2px solid #cce6ff;
     text-align: center;
     margin: auto;
     }
@@ -84,11 +84,11 @@ table, th, td{
 td{ padding: 10px;}
 
 /* Maus über link */
-a:hover{color: lightgreen}
+a:hover{color: lightpink}
 
 /* nichtbesuchter link */
 a:link {
-    color: lightskyblue;
+    color: #cce6ff;
 }
 /* besuchter link */
 a:visited {
