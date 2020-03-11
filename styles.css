@@ -50,6 +50,7 @@ table, th, td{
     border-collapse: collapse;
     border: 2px solid lightskyblue;
     text-align: center;
+    margin: auto;
     }
 
 td{ padding: 10px;}
