@@ -124,7 +124,8 @@ a:active{ color: lightpink}
 footer{position: fixed;
     left: 0;
     bottom: 0;
+    margin-top: 20px;
     width: 100%;
-    background-color: grey;
+    background-color: lightgray;
     color: black;
     text-align: center;}
