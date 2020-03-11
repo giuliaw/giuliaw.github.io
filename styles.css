@@ -141,6 +141,9 @@ footer{position: relative;
 .spots {
     height: 300px;
     width: 500;
-    margin: 0px;
+    margin: 10px;
     float: right;
 }
+.clearfix {
+    overflow: auto;
+  }
