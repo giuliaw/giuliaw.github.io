@@ -142,4 +142,5 @@ footer{position: relative;
     height: 300px;
     width: 500;
     margin: 10px;
+    overflow: hidden;
 }
