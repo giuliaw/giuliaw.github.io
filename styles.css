@@ -20,10 +20,14 @@ ul.topnav {
     text-decoration: none;
   }
   li a:hover {
-    background-color:#f2f2f2;}
+    background-color:#f2f2f2;
+    color: lightpink;
+}
 
 li a:active{ 
-    color: lightpink}
+    background-color: plum;
+    color: rgb(223, 209, 223)}
+
 
 
 h1{color: navy;}
