@@ -108,7 +108,7 @@ a:active{ color: lightpink}
     margin: auto;
     margin-bottom: 50px;
     border: 4px solid lightskyblue;
-    text-align: justify center;
+    text-align: justify center left;
 
 
 }
@@ -142,5 +142,5 @@ footer{position: relative;
     height: 300px;
     width: 500;
     margin: 10px;
-    overflow: hidden;
+    float: right;
 }
