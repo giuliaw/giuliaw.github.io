@@ -118,9 +118,9 @@ a:active{ color: lightpink}
     margin-top: 50px;
     margin-left: 100px;
     margin-left: 100px;
-    border: dashed;
+    border: dashed rgb(158, 228, 205);
     text-align: justify center;
-    background-color: mediumaquamarine;
+    background-color: rgb(158, 228, 205);
 }
 footer{position: relative;
     
