@@ -43,7 +43,14 @@ margin: 0px}
     border: none;
   }
 
-nav{background-color: #cce6ff}
+nav{
+    background-color: #cce6ff;
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
 
 table, th, td{
     table-layout: fixed;
