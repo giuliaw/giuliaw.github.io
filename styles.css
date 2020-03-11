@@ -138,6 +138,8 @@ footer{position: relative;
     float: right;
 }
 
-.spots {height: auto;
+.spots {
+    height: 300px;
+    width: 500;
     float: right;
-}}
+}
