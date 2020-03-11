@@ -36,6 +36,7 @@ table, th, td{
     width: 75%;
     border-collapse: collapse;
     border: 2px solid lightskyblue;
+    text-align: center;
     }
 
 td{ padding: 10px;}
