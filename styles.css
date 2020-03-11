@@ -55,8 +55,7 @@ a:visited {
 a:active{ color: lightpink}
  
 
-.Text 
-{
+.Text{
     width: 75%;
     padding: 30px;
     margin: 100px;
@@ -64,4 +63,11 @@ a:active{ color: lightpink}
     text-align: justify center;
 
 
+}
+.list{
+    width: 75%;
+    padding: 30px;
+    margin: 100px;
+    border: none;
+    text-align: justify center;
 }
