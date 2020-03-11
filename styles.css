@@ -21,7 +21,11 @@ ul.topnav {
   }
   li a:hover {
     background-color:#f2f2f2;}
-    
+
+li a:active{ 
+    color: lightpink}
+
+
 h1{color: navy;}
 h2{
     margin-top: 50px;
