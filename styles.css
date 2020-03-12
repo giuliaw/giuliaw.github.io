@@ -139,7 +139,7 @@ footer{
 .surf {
     height: auto;
     float: right;
-    vertical-align: baseline;
+    vertical-align: middle;
 }
 
 .spots {
