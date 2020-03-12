@@ -61,7 +61,8 @@ background-size: cover;
 position: relative;
 height: 75%;
 width: 100%;
-margin: 0px}
+margin: 0px;
+padding-top: 0px;}
 
 .titeltext{
     font-family: 'Poppins', Helvetica, sans-serif;
