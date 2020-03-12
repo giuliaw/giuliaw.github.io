@@ -30,7 +30,8 @@ li a:active{
 
 
 
-h1{color: navy;}
+h1{color: navy;
+margin-bottom: 0;}
 h2{
     margin-top: 50px;
     margin-left: 100px;
