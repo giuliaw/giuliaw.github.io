@@ -31,7 +31,7 @@ li a:active{
 
 
 h1{color: navy;
-margin-bottom: 0;}
+}
 h2{
     margin-top: 50px;
     margin-left: 100px;
@@ -63,6 +63,7 @@ position: relative;
 height: 75%;
 width: 100%;
 margin: 0px;
+margin-top: 0;
 }
 
 .titeltext{
