@@ -123,6 +123,7 @@ a:active{ color: lightpink}
     border-radius: 20px;
     text-align: justify center;
     background-color: rgb(220, 245, 236);
+    overflow: auto;
 }
 footer{
     position: relative;
