@@ -137,8 +137,9 @@ footer{
 
 }
 .surf {
-    height: 500px;
+    height: auto;
     float: right;
+    vertical-align: baseline;
 }
 
 .spots {
