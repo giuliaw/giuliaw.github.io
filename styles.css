@@ -141,6 +141,7 @@ footer{
 .surf {
     height: auto;
     float: right;
+    position: fixed;
     margin-top: 200px;
     margin-left: 10px;
     margin-right: 10px;
