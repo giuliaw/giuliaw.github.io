@@ -125,6 +125,7 @@ a:active{ color: lightpink}
     border-radius: 20px;
     text-align: justify center;
     background-color: rgb(220, 245, 236);
+    z-index: 20;
 
 }
 footer{
@@ -136,6 +137,7 @@ footer{
     color: black;
     text-align: center;
     vertical-align: middle;
+    z-index: 0;
 
 }
 .surf {
@@ -144,6 +146,7 @@ footer{
     margin-top: 200px;
     margin-left: 10px;
     margin-right: 10px;
+    z-index: 10;
 
 }
 
