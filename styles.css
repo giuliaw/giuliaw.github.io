@@ -30,7 +30,7 @@ li a:active{
 
 
 
-h1{color: navy;
+h1{color: #e6f9ff;
 }
 h2{
     margin-top: 50px;
@@ -73,7 +73,7 @@ margin: 0px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: black;
+    color: whitesmoke;
     border: none;
   }
 
