@@ -146,6 +146,7 @@ footer{
     margin-top: 200px;
     margin-left: 10px;
     margin-right: 10px;
+    position: relative;
     z-index: 10;
 
 }
