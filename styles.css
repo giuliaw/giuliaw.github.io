@@ -156,8 +156,11 @@ footer{
     width: 50%;
     margin-left: 20px;
     float: right;
-
-  }
+}
+.map {width: 50%;
+    margin-left: 20px;
+    float: right}
+    
  .innertext {
      z-index: 20;
  }
