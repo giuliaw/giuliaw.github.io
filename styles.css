@@ -139,7 +139,8 @@ footer{
 
 }
 .surf {
-    height: auto;
+    height: 75;
+    width: auto;
     float: right;
     margin-top: 200px;
     margin-left: 10px;
