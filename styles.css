@@ -125,7 +125,7 @@ a:active{ color: lightpink}
     border-radius: 20px;
     text-align: justify center;
     background-color: rgb(220, 245, 236);
-    z-index: 20;
+    z-index: -10;
 
 }
 footer{
@@ -158,3 +158,6 @@ footer{
     float: right;
 
   }
+ .innertext {
+     z-index: 20;
+ }
