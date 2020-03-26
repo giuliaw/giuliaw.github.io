@@ -140,8 +140,8 @@ footer{
 }
 .surf {
     
-    height: auto;
-    float: right;
+    width: 50%;
+    float: bottom right;
     margin-top: 200px;
     margin-left: 10px;
     margin-right: 10px;
@@ -152,6 +152,6 @@ footer{
 
     width: 50%;
     margin-left: 20px;
-    float: bottom right;
+    float: right;
 
   }
