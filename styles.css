@@ -151,6 +151,6 @@ footer{
  }
 
  @media screen and (max-width: 600px) {
- .topnav {
+ ul.topnav, li.topnav {
       float: none;
 }}
