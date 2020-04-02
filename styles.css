@@ -157,7 +157,7 @@ footer{
 
   .item {width: 50%;
   height: 50%;
-  object-fit: cover;
+  object-fit: fill;
 }
   .one{grid-column-start: 1;
   grid-column-end: 3;
