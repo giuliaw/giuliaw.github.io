@@ -153,10 +153,9 @@ footer{
       float: none;
 }}
 
-.gallery {
-
-    display: grid;
+.gallery {display: grid;
     grid-gap: 10px;
+    background-color: #2196F3;
     padding: 10px;
   }
   @media only screen and (max-width: 768px) {
