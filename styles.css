@@ -177,8 +177,8 @@ grid-row-end: 6;}
 
 .four{grid-column-start: 1;
     grid-column-end: 5;
-    grid-row-start: 5;
-    grid-row-end: 6;}
+    grid-row-start: 6;
+    grid-row-end: 8;}
 
 .five{ grid-column-start: 1;
     grid-column-end: 5;
