@@ -149,3 +149,8 @@ footer{
  .innertext {
      z-index: 20;
  }
+
+ @media screen and (max-width: 600px) {
+ .topnav {
+      float: none;
+}}
