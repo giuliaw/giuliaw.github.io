@@ -115,9 +115,7 @@ a:active{ color: lightpink}
 .list{
     width: 75%;
     padding: 30px;
-    margin-top: 50px;
-    margin-left: 100px;
-    margin-left: 100px;
+    margin: auto;
     border: solid rgb(183, 221, 207);
     border-radius: 20px;
     text-align: justify center;
