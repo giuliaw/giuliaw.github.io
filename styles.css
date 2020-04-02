@@ -147,27 +147,25 @@ footer{
  .innertext {
      z-index: 20;
  }
+ .container {
+    width: 60%;
+    margin: 2rem auto; 
+  }
+  
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 1.5rem; 
+  }
+  .one{grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  }
 
  @media screen and (max-width: 600px) {
  ul.topnav, li.topnav {
       float: none;
 }}
 
-.gallery {display: grid;
-    grid-gap: 10px;
-    padding: 10px;
-  }
-  @media only screen and (max-width: 768px) {
-.one {grid-column: 1 / span 12; grid-row: 1;
-width: 20%; }
-.two { grid-column: 1 / span 6; grid-row: 2;
-    width: 20%; }
-.three { grid-column: 7 / span 6; grid-row: 2;
-    width: 20%; }
-.four { grid-column: 1 / span 3; grid-row: 3; 
-    width: 20%;}
-.five { grid-column: 4 / span 6; grid-row: 3; 
-    width: 20%;}
-.six { grid-column: 10 / span 3; grid-row: 3; 
-    width: 20%;}
-  }
