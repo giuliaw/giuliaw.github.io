@@ -164,6 +164,31 @@ footer{
   grid-row-end: 3;
   }
 
+  .two{grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;}
+
+.three{ grid-column-start: 5;
+grid-column-end: 9;
+grid-row-start: 1;
+grid-row-end: 6;}
+
+.four{grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 6;}
+
+.five{ grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 6;
+    grid-row-end: 9;}
+    
+.six{grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 6;
+    grid-row-end: 9;
+  }
  @media screen and (max-width: 600px) {
  ul.topnav, li.topnav {
       float: none;
