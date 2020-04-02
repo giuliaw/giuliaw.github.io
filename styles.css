@@ -148,48 +148,7 @@ footer{
      z-index: 20;
  }
  
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(12, 5vw);
-    grid-gap: 1.5rem; 
-  }
-
-  .item {width: 50%;
-  height: 50%;
-  object-fit: fill;
-}
-  .one{grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 1;
-  grid-row-end: 3;
-  }
-
-  .two{grid-column-start: 3;
-    grid-column-end: 5;
-    grid-row-start: 1;
-    grid-row-end: 3;}
-
-.three{ grid-column-start: 5;
-grid-column-end: 9;
-grid-row-start: 1;
-grid-row-end: 6;}
-
-.four{grid-column-start: 1;
-    grid-column-end: 5;
-    grid-row-start: 6;
-    grid-row-end: 8;}
-
-.five{ grid-column-start: 1;
-    grid-column-end: 5;
-    grid-row-start: 6;
-    grid-row-end: 9;}
-
-.six{grid-column-start: 5;
-    grid-column-end: 9;
-    grid-row-start: 10;
-    grid-row-end: 12;
-  }
+  
  @media screen and (max-width: 600px) {
  ul.topnav, li.topnav {
       float: none;
