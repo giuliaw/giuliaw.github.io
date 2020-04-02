@@ -151,7 +151,7 @@ footer{
   .gallery {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(10, 5vw);
+    grid-template-rows: repeat(12, 5vw);
     grid-gap: 1.5rem; 
   }
 
@@ -187,8 +187,8 @@ grid-row-end: 6;}
 
 .six{grid-column-start: 5;
     grid-column-end: 9;
-    grid-row-start: 8;
-    grid-row-end: 9;
+    grid-row-start: 10;
+    grid-row-end: 12;
   }
  @media screen and (max-width: 600px) {
  ul.topnav, li.topnav {
