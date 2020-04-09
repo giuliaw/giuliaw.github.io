@@ -103,7 +103,10 @@ a:active{ color: lightpink}
 .gradientfacts{
   background-image: linear-gradient(180deg, rgba(148,187,233,1) 7%, rgba(179,151,247,1) 96%);
   background-size: cover;
-  position: relative;}
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 .Text{
     width: 75%;
     padding: 30px;
