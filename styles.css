@@ -127,7 +127,7 @@ a:active{ color: lightpink}
 
 }
 footer{
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     padding: 10px;
