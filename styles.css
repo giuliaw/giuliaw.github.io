@@ -84,7 +84,7 @@ table, th, td{
     margin: auto;
     }
 
-td{ padding: 10px;}
+td, th{ padding: 10px;}
 
 /* Maus über link */
 a:hover{color: lightpink}
