@@ -173,9 +173,7 @@ footer{
     width: 100%;
   }
 
-  .gallery
-  {margin: auto;
-  }
+
   
   @media screen and (max-width: 600px) {
     .column {
