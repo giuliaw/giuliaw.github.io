@@ -174,7 +174,8 @@ footer{
   }
 
   .gallery
-  {vertical-align: middle;}
+  {vertical-align: middle;
+  margin: auto;}
   
   @media screen and (max-width: 600px) {
     .column {
