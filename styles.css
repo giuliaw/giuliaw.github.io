@@ -100,7 +100,10 @@ a:visited {
 /* ausgewählter link */
 a:active{ color: lightpink}
  
-
+.gradientfacts{
+  background: rgb(148,187,233);
+  background: linear-gradient(180deg, rgba(148,187,233,1) 7%, rgba(139,247,196,1) 96%);
+}
 .Text{
     width: 75%;
     padding: 30px;
