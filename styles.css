@@ -79,7 +79,7 @@ table, th, td{
     table-layout: fixed;
     width: 75%;
     border-collapse: collapse;
-    border: 2px solid lightskyblue;
+    border: 2px solid black;
     text-align: center;
     margin: auto;
     }
