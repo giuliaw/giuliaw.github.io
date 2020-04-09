@@ -162,8 +162,8 @@ footer{
   }
 
   .column {
-    flex: 25%;
-    max-width: 25%;
+    flex: 20%;
+    max-width: 20%;
     padding: 0 4px;
   }
   
@@ -177,8 +177,8 @@ footer{
   
   @media screen and (max-width: 600px) {
     .column {
-      flex: 50%;
-      max-width: 50%;
+      flex: 40%;
+      max-width: 40%;
     }
   }
   
