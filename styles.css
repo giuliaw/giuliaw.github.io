@@ -143,7 +143,11 @@ footer{
     float: right;
 }
 
-
+.Tipps {
+  position: relative;
+  width: 100%;
+  height: 50%;
+}
  .innertext {
      z-index: 20;
  }
