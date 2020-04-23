@@ -10,8 +10,7 @@ ul.topnav {
  li.topnav {
     float: left;
   }
-  
-
+ 
   li a {
     display: block;
     color: white;
@@ -30,7 +29,9 @@ li a:active{
     color: rgb(223, 209, 223)}
 
 
-
+#active {
+  font-weight: bold;
+}
 h1{color: #9fbfdf;
 }
 h2{
