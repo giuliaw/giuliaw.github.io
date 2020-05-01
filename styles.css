@@ -165,8 +165,7 @@ footer{
 
 .Tipps {
   position: relative;
-  background-size: cover;
-  height: 20%
+  width: 100%;
 }
  .innertext {
      z-index: 20;
