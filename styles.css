@@ -150,6 +150,7 @@ footer{
 
 #history {
   margin: auto;
+  margin-left: 20px;
   padding: 30px;
   text-align: justify center;
   overflow: hidden;
