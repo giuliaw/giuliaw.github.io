@@ -154,8 +154,12 @@ footer{
   text-align: justify center;
   overflow: hidden;
   border: none;
-
   width: 50%;
+}
+
+#dukehistory {
+  float: right;
+
 }
 
 .Tipps {
