@@ -149,6 +149,7 @@ footer{
 }
 
 #history {
+  margin: auto;
   text-align: justify center left;
   overflow: hidden;
 }
