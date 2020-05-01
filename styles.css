@@ -148,6 +148,11 @@ footer{
     float: right;
 }
 
+#history {
+  text-align: justify center left;
+  overflow: hidden;
+}
+
 .Tipps {
   position: relative;
   width: 100%;
@@ -155,8 +160,7 @@ footer{
  .innertext {
      z-index: 20;
  }
- 
-  
+
  @media screen and (max-width: 600px) {
  ul.topnav, li.topnav {
       float: none;
