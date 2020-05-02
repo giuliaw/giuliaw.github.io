@@ -153,7 +153,7 @@ footer{
   margin: auto;
   text-align: justify center;
   overflow: hidden;
-  border: black;
+  border: solid black;
   width: 40%;
 }
 
