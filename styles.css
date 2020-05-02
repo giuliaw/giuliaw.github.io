@@ -138,6 +138,8 @@ footer{
     text-align: center;
     vertical-align: middle;
     z-index: 0;
+      grid-column: 1 / 13;
+      grid-row: 3;
 
 }
 
