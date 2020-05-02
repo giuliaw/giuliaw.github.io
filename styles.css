@@ -195,7 +195,8 @@ footer{
     width: 100%;
   }
 
-
+.sidebarv{
+  padding: 10px;}
   
   @media screen and (max-width: 600px) {
     .column {
