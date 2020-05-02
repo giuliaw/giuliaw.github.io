@@ -231,7 +231,8 @@ footer{
       background-color: #444;
       color: #e4e4e4;
     }
-    .list{background-color: darkslategray; }
+    .list{background-color: rgb(51, 112, 112);
+    border:none }
     
     img {
       filter: grayscale(30%);
