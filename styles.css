@@ -195,7 +195,7 @@ footer{
     width: 100%;
   }
 
-.sidebarv{
+.sidebar{
   padding: 10px;}
   
   @media screen and (max-width: 600px) {
@@ -203,8 +203,13 @@ footer{
       flex: 40%;
       max-width: 40%;
     }
+
+  }@media screen and (max-width: 600) {.sidebar{
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+        column-gap: 20px;
+    }
   }
-  
   @media (prefers-color-scheme: dark) {
 
   }
