@@ -222,14 +222,6 @@ footer{
       flex: 40%;
       max-width: 40%;
     }
-
-    @media screen and (min-width: 40em) {
-      article {
-          display: grid;
-          grid-template-columns: 3fr 2fr;
-          column-gap: 20px;
-      }
-    }
   }
   @media (prefers-color-scheme: dark) {
 
