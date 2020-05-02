@@ -233,9 +233,7 @@ footer{
     }
     .list{background-color: rgb(51, 112, 112);
     border:none }
-    table, th, td{
-      border: 2px solid grey;
-      }
+    
     img {
       filter: grayscale(30%);
     }
