@@ -217,7 +217,15 @@ footer{
     grid-column: 9 / 13;
     grid-row: 2;
   }
+
+  figure {
+    text-align: center; 
+  }
   
+  figcaption {
+    display: inline-block; 
+    text-align: left;
+  }
   
   @media screen and (max-width: 600px) {
     .column {
