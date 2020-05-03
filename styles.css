@@ -304,5 +304,5 @@ footer{
   }
   
 .weatherbutton {
-  background-color: tomato;
-}
+  background-image: linear-gradient(to right, #ff6e7f 0%, #bfe9ff 51%, #ff6e7f 100%)}
+.weatherbutton:hover { background-position: right center; }
