@@ -28,4 +28,5 @@ function myload () {
 
   x1.style.display = "none";
   x2.style.display = "none";
+  x3.style.display = "none";
 }
