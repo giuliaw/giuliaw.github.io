@@ -304,5 +304,10 @@ footer{
   }
   
 .weatherbutton {
-  background-image: linear-gradient(to right, #ff6e7f 0%, #bfe9ff 51%, #ff6e7f 100%)}
+  background-image: linear-gradient(to right, #ff6e7f 0%, #bfe9ff 51%, #ff6e7f 100%);
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+  background-size: 300% 100%;
+}
 .weatherbutton:hover { background-position: right center; }
