@@ -319,7 +319,7 @@ footer{
 }
 .weatherbutton:hover { background-position: right center; }
 
-svg{
+.letssurf{
   transform: rotate(90deg);
   width: 100%;
   margin: 100px;
