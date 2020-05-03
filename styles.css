@@ -322,7 +322,8 @@ footer{
 .letssurf{
   transform: rotate(90deg);
   width: 100%;
-  margin: 100px;
   padding: 100px;
-  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
