@@ -320,8 +320,6 @@ footer{
 .weatherbutton:hover { background-position: right center; }
 
 svg{
-  transform: rotate(90deg);
-  margin: auto;
-  position: relative;
-  text-align: center;
+ 
+ 
 }
