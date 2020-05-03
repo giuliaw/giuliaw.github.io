@@ -24,6 +24,7 @@ Weather Widget nicht anzeigen */
 function myload () {
   var x1 = document.getElementById("cali-weather-id");
   var x2 = document.getElementById("torquay-weather-id");
+  var x3 = document.getElementById("bondi-weather-id");
 
   x1.style.display = "none";
   x2.style.display = "none";
