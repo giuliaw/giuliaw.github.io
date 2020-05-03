@@ -25,8 +25,10 @@ function myload () {
   var x1 = document.getElementById("cali-weather-id");
   var x2 = document.getElementById("torquay-weather-id");
   var x3 = document.getElementById("bondi-weather-id");
+  var x4 = document.getElementById("sagres-weather-id");
 
   x1.style.display = "none";
   x2.style.display = "none";
   x3.style.display = "none";
+  x4.style.display = "none";
 }
