@@ -9,8 +9,8 @@ function myFunction() {
 
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 
-function myweatherFunction() {
-var x = document.getElementById("weatherwidget-id");
+function myweatherFunction(id) {
+var x = document.getElementById(id);
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
@@ -19,6 +19,9 @@ var x = document.getElementById("weatherwidget-id");
 }
 
 function myload () {
-  var x = document.getElementById("weatherwidget-id");
-  x.style.display = "none";
+  var x1 = document.getElementById("cali-weather-id");
+  var x2 = document.getElementById("torquay-weather-id");
+
+  x1.style.display = "none";
+  x2.style.display = "none";
 }
