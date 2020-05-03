@@ -308,6 +308,7 @@ footer{
   box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
   color: #fff;
   width: 200px;
+  height: 55px;
   margin: 10px;
   text-align: center;
   cursor: pointer;
