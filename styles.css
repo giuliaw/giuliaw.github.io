@@ -303,34 +303,3 @@ footer{
     }
   }
   
-  .btncontainer {
-    position: relative;
-    width: 100%;
-    max-width: 400px;
-  }
-  
-  .btncontainer .Tipps {
-    width: 100%;
-    height: auto;
-  }
-  
-  .btncontainer .btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-image: linear-gradient(to right, #83a4d4 0%, #b6fbff 51%, #83a4d4 100%);
-    color: whitesmoke;
-    font-size: 16px;
-    padding: 16px 30px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    text-align: center;
-  }
-  
-  .container .btn:hover {
-    background-color: black;
-    color: white;
-  }
