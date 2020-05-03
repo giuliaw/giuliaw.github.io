@@ -304,5 +304,5 @@ footer{
   }
   
 .weatherwidget-io{
-  display: hidden;
+  display: none;
 }
