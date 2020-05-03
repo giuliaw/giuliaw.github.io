@@ -26,9 +26,15 @@ function myload () {
   var x2 = document.getElementById("torquay-weather-id");
   var x3 = document.getElementById("bondi-weather-id");
   var x4 = document.getElementById("sagres-weather-id");
+  var x5 = document.getElementById("ericeira-weather-id");
+  var x6 = document.getElementById("sansebastian-weather-id");
+  var x7 = document.getElementById("playaelcotillo-weather-id");
 
   x1.style.display = "none";
   x2.style.display = "none";
   x3.style.display = "none";
   x4.style.display = "none";
+  x5.style.display = "none";
+  x6.style.display = "none";
+  x7.style.display = "none";
 }
