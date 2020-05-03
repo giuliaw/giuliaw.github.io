@@ -17,3 +17,8 @@ var x = document.getElementById("weatherwidget-id");
     x.style.display = "none";
   }  
 }
+
+function myload () {
+  var x = document.getElementById("weatherwidget-id");
+  x.style.display = "none";
+}
