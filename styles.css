@@ -318,3 +318,7 @@ footer{
   font-size: 2vh;
 }
 .weatherbutton:hover { background-position: right center; }
+
+svg{
+  transform: rotate(90deg);
+}
