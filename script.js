@@ -22,13 +22,14 @@ var x = document.getElementById(id);
 /* Initialisierung beim Laden der Seite
 Weather Widget nicht anzeigen */
 function myload () {
-  var x1 = document.getElementById("cali-weather-id");
-  var x2 = document.getElementById("torquay-weather-id");
-  var x3 = document.getElementById("bondi-weather-id");
-  var x4 = document.getElementById("sagres-weather-id");
-  var x5 = document.getElementById("ericeira-weather-id");
-  var x6 = document.getElementById("sansebastian-weather-id");
-  var x7 = document.getElementById("playaelcotillo-weather-id");
+  var x1 = document.getElementById("kauai-weather-id");
+  var x2 = document.getElementById("cali-weather-id");
+  var x3 = document.getElementById("torquay-weather-id");
+  var x4 = document.getElementById("bondi-weather-id");
+  var x5 = document.getElementById("sagres-weather-id");
+  var x6 = document.getElementById("ericeira-weather-id");
+  var x7 = document.getElementById("sansebastian-weather-id");
+  var x8 = document.getElementById("playaelcotillo-weather-id");
 
   x1.style.display = "none";
   x2.style.display = "none";
@@ -37,4 +38,5 @@ function myload () {
   x5.style.display = "none";
   x6.style.display = "none";
   x7.style.display = "none";
+  x8.style.display = "none";
 }
