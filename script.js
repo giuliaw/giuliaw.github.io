@@ -22,6 +22,6 @@ function myload () {
   var x1 = document.getElementById("cali-weather-id");
   var x2 = document.getElementById("torquay-weather-id");
 
-  x1.style.display = "none";
-  x2.style.display = "none";
+  /* x1.style.display = "none";
+  x2.style.display = "none"; */
 }
