@@ -262,6 +262,7 @@ footer{
 
 .gallerygrid{
   margin: auto;
+  text-align: center;
 }  
 .sidebar{
   padding: 30px;
