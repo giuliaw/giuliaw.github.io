@@ -260,6 +260,9 @@ footer{
     width: 100%;
   }
 
+.gallerygrid{
+  margin: auto;
+}  
 .sidebar{
   padding: 30px;
   border: solid black;
