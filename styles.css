@@ -198,8 +198,10 @@ footer{
 }
 
 .Tipps {
-  position: relative;
-  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50%;
 }
  .innertext {
      z-index: 20;
