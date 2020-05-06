@@ -198,6 +198,7 @@ footer{
 }
 
 .Tipps {
+  background-image: url(tipsimg.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
