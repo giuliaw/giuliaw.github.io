@@ -324,6 +324,7 @@ footer{
 
 .letssurf{
   transform: rotate(90deg);
+  position: relative;
   width: 100%;
   padding: 100px;
   display: block;
