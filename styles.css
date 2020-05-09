@@ -290,6 +290,14 @@ aside ul {
     grid-row: 2;
   }
 
+  @media screen and (min-width: 40em) {
+    article {
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+        column-gap: 20px;
+    }
+  }  
+
   figure {
     text-align: center; 
   }
