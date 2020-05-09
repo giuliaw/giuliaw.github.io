@@ -266,6 +266,10 @@ footer{
   border: solid black;
   margin: auto;}
   
+aside ul {
+    list-style: none;
+    padding: 0;
+}
 
 .container {
   display: grid;
