@@ -327,15 +327,7 @@ footer{
 }
 .weatherbutton:hover { background-position: right center; }
 
-.letssurf{
-  transform: rotate(90deg);
-  position: relative;
-  width: 100%;
-  padding: 100px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 .news{
   text-align: center;
@@ -376,4 +368,5 @@ footer{
 
 .surfboardsvg {
   margin: 0 auto;
+  transform: rotate(90deg);
 }
