@@ -290,18 +290,7 @@ aside ul {
     grid-row: 2;
   }
 
-  @media screen and (max-width:600px) {
-    main {
-        display: grid;
-        grid-template-columns: 3fr 1fr;
-        column-gap: 20px;
-    }
-  }
-  
-    article {
-        margin-bottom: 0;
-    }
-
+ 
   figure {
     text-align: center; 
   }
