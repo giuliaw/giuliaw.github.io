@@ -270,6 +270,9 @@ aside ul {
     list-style: none;
     padding: 0;
 }
+.asideh3{
+  text-align: center;
+}
 
 .container {
   display: grid;
