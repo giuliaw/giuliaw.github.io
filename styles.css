@@ -367,6 +367,9 @@ footer{
 }
 
 .surfsvg {
-  margin: 0 auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   transform: rotate(90deg);
 }
