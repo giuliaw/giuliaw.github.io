@@ -385,5 +385,5 @@ aside ul {
 }
 
 .surfsvg:hover{
-  transform: rotate(100deg) ;transition: 3s; cursor:none;
+  transform: rotate(100deg) ;transition: 4s; cursor:none;
 }
