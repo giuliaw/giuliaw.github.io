@@ -333,6 +333,7 @@ aside ul {
   margin-right: auto;
   width: 50%;
   transform: rotate(90deg);
+  position: relative;
   z-index: 10;
 }
 
