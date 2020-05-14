@@ -60,32 +60,7 @@ body, html{
 
 body{font-family: 'Manrope', sans-serif;}
 
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-.dropdown .dropbtn {
-  font-size: 17px; 
-  border: none;
-  outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-/* zeigt dropdown-menu wenn mit der Maus darübergefahren wird*/
-.dropdown:hover .dropdown-content {
-  display: block;
-}
+
 .titelbild{background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(ocean.jpg);
 background-position: center;
 background-repeat: no-repeat;
@@ -350,42 +325,6 @@ aside ul {
   text-align: center;
 }
 
-#topbutton {
-  display: inline-block;
-  background-color: #87cefa;
-  width: 50px;
-  height: 50px;
-  text-align: center;
-  border-radius: 4px;
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
-  transition: background-color .3s, 
-    opacity .5s, visibility .5s;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 1000;
-}
-#topbutton::after {
-  content: "\f077";
-  font-family: FontAwesome;
-  font-weight: normal;
-  font-style: normal;
-  font-size: 2em;
-  line-height: 50px;
-  color: #fff;
-}
-#topbutton:hover {
-  cursor: pointer;
-  background-color: #333;
-}
-#topbutton:active {
-  background-color: #555;
-}
-#topbutton.show {
-  opacity: 1;
-  visibility: visible;
-}
 
 
 .surfsvg {
