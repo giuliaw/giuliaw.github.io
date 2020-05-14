@@ -141,6 +141,7 @@ a:active{ color: lightpink}
   background-size: cover;
   position: relative;
   height: 100%;
+  z-index: -10;
 }
 
 .Text{
@@ -380,5 +381,5 @@ aside ul {
   margin-right: auto;
   width: 50%;
   transform: rotate(90deg);
-  z-index: auto;
+  z-index: 10;
 }
