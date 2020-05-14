@@ -195,7 +195,7 @@ footer{
   float: none;
 }}
 @media screen and (max-width: 600px) {
-  ul.topnav li.topnav a:not(:first-child) {
+  .topnav .topnav a:not(:first-child) {
     display: none;
   }
   .topnav a.icon {
