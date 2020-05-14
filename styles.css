@@ -140,7 +140,7 @@ a:active{ color: lightpink}
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  height: 50%;
+  height: 100%;
   z-index: -10;
 }
 
