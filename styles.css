@@ -53,11 +53,12 @@ h5{
 }
 
 h6{
-  font-size: 3.5vh; 
+  font-size: 4.5vh; 
   writing-mode: vertical-rl;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 1;
+  color: #cccccc;
 }
 p{font-size: 2vmin;}
 body, html{ 
