@@ -203,7 +203,7 @@ footer{
   }
 
   .column {
-    flex: 25%;
+    flex: 40%;
     max-width: 24.4%;
     padding: 0 4px;
   }
