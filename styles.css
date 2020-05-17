@@ -243,6 +243,11 @@ footer{
   height: 443px;
   object-fit: cover;
 }
+
+.topsurf{
+  height: 500x;
+  object-fit: cover;
+}
 .sidebar{
   padding: 30px;
   border: solid black;
