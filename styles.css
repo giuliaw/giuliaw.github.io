@@ -230,8 +230,11 @@ footer{
     vertical-align: middle;
     width: 100%;
   }
-
- 
+.dog{
+  height: 349px;
+  width: 400px;
+  object-fit: cover;
+}
 .sidebar{
   padding: 30px;
   border: solid black;
