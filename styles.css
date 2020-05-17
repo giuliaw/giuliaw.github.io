@@ -237,6 +237,8 @@ footer{
 }
 
 .walkingsurf{
+  height: 349px;
+  width: 450px;
   object-fit: cover;
 }
 .sidebar{
