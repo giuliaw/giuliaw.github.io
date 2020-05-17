@@ -57,10 +57,11 @@ h6{
   writing-mode: vertical-rl;
   position: absolute;
   left: 0;
-  top: 0.25;
+  top: 0;
   color: #cccccc;
   vertical-align: middle;
   margin-left: 0;
+  margin-top: 2px;
   font-family: 'Indie Flower', cursive;
 }
 p{font-size: 2vmin;}
