@@ -235,6 +235,10 @@ footer{
   width: 390px;
   object-fit: cover;
 }
+
+.walkingsurf{
+  object-fit: cover;
+}
 .sidebar{
   padding: 30px;
   border: solid black;
