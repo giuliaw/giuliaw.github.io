@@ -52,7 +52,7 @@ h5{
   writing-mode: vertical-rl;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 2;
   
 }
 p{font-size: 2vmin;}
@@ -127,6 +127,7 @@ a:active{ color: lightpink}
 .Text{
     width: calc(80% - 100px);
     padding: 30px;
+    padding-left: 150px;
     margin: auto;
     margin-bottom: 50px;
     border: 4px solid lightskyblue;
