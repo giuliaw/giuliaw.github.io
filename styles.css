@@ -324,7 +324,6 @@ aside ul {
   transform: rotate(90deg);
   position: relative;
   z-index: 10;
-  left: -300px;
 }
 
 
