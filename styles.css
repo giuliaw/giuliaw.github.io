@@ -120,7 +120,7 @@ a:active{ color: lightpink}
 }
 
 .Text{
-    width: calc(90% - 100px);
+    width: calc(80% - 100px);
     padding: 30px;
     margin: auto;
     margin-bottom: 50px;
