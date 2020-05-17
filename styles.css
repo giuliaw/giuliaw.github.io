@@ -320,7 +320,7 @@ aside ul {
 .surfsvg{
 position: relative;
 z-index: 10;
-left: -300px;
+right: -300px;
 }
 
 
