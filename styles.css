@@ -305,7 +305,7 @@ aside ul {
 
 
 
-.surfsvg {
+/*.surfsvg {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -314,7 +314,11 @@ aside ul {
   position: relative;
   z-index: 10;
   left: -300px;
-}
+ 
+}*/
+
+
+
 
 .surfsvg:hover{
   transform: rotate(100deg) ;transition: 4s; cursor:none;
