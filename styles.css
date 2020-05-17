@@ -49,6 +49,7 @@ h4{
 }
 h5{
   font-size: 2.5vh; 
+  writing-mode: vertical-rl;
 }
 p{font-size: 2vmin;}
 body, html{ 
