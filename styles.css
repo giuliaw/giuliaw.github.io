@@ -57,7 +57,7 @@ h6{
   writing-mode: vertical-rl;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 0.5;
   color: #cccccc;
   vertical-align: middle;
   margin-left: 0;
