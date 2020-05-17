@@ -251,7 +251,16 @@ footer{
 .sidebar{
   padding: 30px;
   border: solid black;
-  margin: auto;}
+  margin: auto;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
   
 aside ul {
     list-style: none;
@@ -352,15 +361,4 @@ aside ul {
 
 .surfsvg:hover{
   transform: rotate(100deg) ;transition: 4s; cursor:none;
-}
-
-.fas .fa-globe-americas {
-  background-color: red;
-  animation-name: example;
-  animation-duration: 4s;
-}
-
-@keyframes example {
-  from {background-color: red;}
-  to {background-color: yellow;}
 }
