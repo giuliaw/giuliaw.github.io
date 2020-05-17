@@ -252,13 +252,13 @@ footer{
   padding: 30px;
   border: solid black;
   margin: auto;
-  background-color: purple;
+  background-color: #e6ccff;
   animation-name: example;
   animation-duration: 10s;
   }
   
   @keyframes example {
-    from {background-color: purple;}
+    from {background-color: #e6ccff;}
     to {background-color: white;}
   }
   
