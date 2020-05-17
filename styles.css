@@ -56,6 +56,7 @@ h6{
   font-size: 7.5vh; 
   writing-mode: vertical-rl;
   position: absolute;
+  left: 0;
   top: 1;
   color: #cccccc;
   vertical-align: middle;
@@ -133,7 +134,7 @@ a:active{ color: lightpink}
 .Text{
     width: calc(80% - 100px);
     padding: 30px;
-    padding-left: 150px;
+    padding-left: 200px;
     margin: auto;
     margin-bottom: 50px;
     border: 4px solid lightskyblue;
