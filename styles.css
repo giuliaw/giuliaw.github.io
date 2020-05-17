@@ -254,7 +254,7 @@ footer{
   margin: auto;
   background-color: #e6ccff;
   animation-name: example;
-  animation-duration: 10s;
+  animation-duration: 6s;
   }
   
   @keyframes example {
