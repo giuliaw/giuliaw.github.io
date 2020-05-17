@@ -318,6 +318,7 @@ aside ul {
 }*/
 
 .surfsvg{
+transform: rotate(90deg);
 position: relative;
 z-index: 10;
 right: -300px;
