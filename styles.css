@@ -59,6 +59,7 @@ h6{
   left: 0;
   top: 1;
   color: #cccccc;
+  vertical-align: middle;
 }
 p{font-size: 2vmin;}
 body, html{ 
