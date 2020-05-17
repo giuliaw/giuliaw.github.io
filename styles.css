@@ -167,8 +167,6 @@ footer{
     text-align: center;
     vertical-align: middle;
     z-index: 0;
-    grid-column: 1 / 13;
-    grid-row: 3;
 
 }
 
@@ -339,14 +337,9 @@ aside ul {
 }
 .weatherbutton:hover { background-position: right center; }
 
-
-
 .news{
   text-align: center;
 }
-
-
-
 
 .surfsvg{
   display: block;
