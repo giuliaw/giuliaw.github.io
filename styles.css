@@ -52,7 +52,7 @@ h5{
   writing-mode: vertical-rl;
   position: absolute;
   left: 0;
-  top: 1;
+  top: 0;
   
 }
 p{font-size: 2vmin;}
