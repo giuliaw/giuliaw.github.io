@@ -203,7 +203,7 @@ footer{
   }
 
   .column {
-    flex: 40%;
+    flex: 25%;
     max-width: 24.4%;
     padding: 0 4px;
   }
@@ -265,7 +265,7 @@ aside ul {
   @media screen and (max-width: 600px) {
     .column {
       flex: 40%;
-      max-width: 40%;
+      max-width: 45%;
     }
   }
   @media (prefers-color-scheme: dark) {
