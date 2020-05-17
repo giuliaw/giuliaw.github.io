@@ -232,13 +232,11 @@ footer{
   }
 .dog{
   height: 349px;
-  width: 390px;
   object-fit: cover;
 }
 
 .walkingsurf{
-  height: 349px;
-  width: 455px;
+  height: 450px;
   object-fit: cover;
 }
 .sidebar{
