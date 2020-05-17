@@ -231,9 +231,13 @@ footer{
     width: 100%;
   }
 .dog{
-  height: 349px;
+  height: 250px;
   object-fit: cover;
 }
+
+.sunset{height: 349px;
+  object-fit: cover;
+}}
 
 .walkingsurf{
   height: 443px;
