@@ -189,6 +189,7 @@ footer{
   width: 500px;
   object-fit: cover;
   margin-left: 20px;
+  margin-right: 20px;
   float: right;
 }
 
