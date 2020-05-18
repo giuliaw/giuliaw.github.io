@@ -182,6 +182,9 @@ footer{
     float: right;
 }
 
+.bondimap{
+  height: 50%;
+}
 #history {
   margin: auto;
   text-align: justify center;
