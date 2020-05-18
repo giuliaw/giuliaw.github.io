@@ -138,7 +138,7 @@ a:active{ color: lightpink}
 }
 
 .Text{
-    width: calc(80% - 100px);
+    width: calc(75% - 100px);
     padding: 30px;
     padding-left: 150px;
     margin: auto;
@@ -176,7 +176,7 @@ footer{
 }
 
 .spots {
-  height: 400px;
+  height: 300px;
   width: 500px;
   object-fit: cover;
   margin-left: 20px;
