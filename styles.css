@@ -157,6 +157,14 @@ a:active{ color: lightpink}
     text-align: justify center;
     background-color: rgb(220, 245, 236);
     z-index: -10;
+  }
+dl {
+  display: block;
+  }
+
+dt{
+  margin-top: 2em;
+  margin-bottom:1em;
 
 }
 footer{
