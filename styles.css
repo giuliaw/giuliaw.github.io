@@ -176,10 +176,11 @@ footer{
 }
 
 .spots {
-
-    width: 50%;
-    margin-left: 20px;
-    float: right;
+  height: 50%;
+  width: 60%;
+  object-fit: cover;
+  margin-left: 20px;
+  float: right;
 }
 
 
