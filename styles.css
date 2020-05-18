@@ -185,8 +185,8 @@ footer{
 }
 
 .spots {
-  height: 25vh;
-  width: 60vh;
+  height: 50%;
+  width: 100%;
   object-fit: cover;
   margin-left: 20px;
   float: right;
