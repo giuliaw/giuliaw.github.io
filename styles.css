@@ -228,7 +228,7 @@ footer{
 }
   .spots{
     width: 100%;
-    float: none;
+    float: left;
     margin-right: 30px;
   }}
 
