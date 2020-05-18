@@ -224,7 +224,11 @@ footer{
       float: none;}
   #dukehistory {
   float: none;
-}}
+}
+  .sports{
+    width: 50%;
+    float: none;
+  }}
 
 .row {
     display: flex;
