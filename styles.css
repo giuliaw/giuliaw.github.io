@@ -194,6 +194,7 @@ footer{
 }
 
 
+
 #history {
   margin: auto;
   text-align: justify center;
@@ -226,7 +227,11 @@ footer{
   #dukehistory {
   float: none;
 }
- }
+.spots {
+  height: 50%;
+  width: 75%;
+  float: none;
+ }}
 
 .row {
     display: flex;
